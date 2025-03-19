@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  align-content: center;
+}
+.box {
+  background-color: black;
+  width: 10vh;
+  height: 10vh;
+}
+.grid {
+  border: 1px solid;
+  width: 80vh;
+  height: 80vh;
+  margin: auto;
+  display: flex;
+}
+.even {
+  background-color: white;
+}
+.row {
+  align-content: center;
+  justify-content: center;
+}
