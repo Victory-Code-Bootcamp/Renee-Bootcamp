@@ -1,0 +1,19 @@
+a {
+  color: #3443eb;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: wavy;
+}
+
+a:hover {
+  color: #fa05dd;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(40, 220, 20);
+  text-decoration: solid;
+}
