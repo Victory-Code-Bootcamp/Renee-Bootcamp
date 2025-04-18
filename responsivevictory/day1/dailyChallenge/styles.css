@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #0c0c0c;
+  --secondary-color: #2ecc71;
+  --font-size-large: 2rem;
+  --margin-large: 1.5rem;
+  --padding-medium: 1rem;
+}
+a {
+  color: var(--primary-color);
+  background-color: rgb(77, 23, 253);
+  text-decoration-color: var(--secondary-color);
+}
